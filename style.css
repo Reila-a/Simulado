@@ -1,0 +1,48 @@
+header {
+    min-height: 70vh;
+    background-image: url(https://picsum.photos/1920/1080);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.fs-0{
+    font-size: 60px;
+}
+
+.f-size{
+    font-size: 18px;
+}
+
+@media screen and (max-width:767px){
+    .sumir{
+        display:none;
+    }
+
+    .sumir2{
+        display:none;
+    }
+    
+    .ns{
+        margin-top: 10px;
+        
+    }
+}
+
+@media screen and (max-width:600px){
+    .sumir{
+        display:none;
+    }
+
+    .sumir2{
+        display:none;
+        
+    }
+
+    .ns{
+        margin-top: 10px;
+        
+    }
+}
+
+
